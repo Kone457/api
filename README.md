@@ -1,3 +1,2 @@
-![](https://github.com/BrayanOFC/Lines-Neon-MB/raw/main/assets/Logo-neon.jpg)
-## Pequeña Api para uso personal 
-![](https://github.com/BrayanOFC/Lines-Neon-MB/raw/main/assets/Logo-arcoiris.jpg)
+![Static Badge](https://img.shields.io/badge/Estado-En%20desarrollo-green)
+![Visitas](https://visitor-badge.laobi.icu/badge?page=tuusuario.turepo)
